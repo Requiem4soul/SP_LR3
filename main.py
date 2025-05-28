@@ -2,7 +2,7 @@ import random
 import re
 from collections import defaultdict
 
-LOG = True
+LOG = False
 
 def create_sample_text():
     """
